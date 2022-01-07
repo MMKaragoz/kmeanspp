@@ -2,9 +2,8 @@
 
 ## Table of Contents
 
--[Introduction](#introduction)
-
--[Installation](#installation)
+- [Introduction](#introduction)
+- [Installation](#installation)
 
 ### Introduction
 
