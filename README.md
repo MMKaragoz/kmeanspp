@@ -19,4 +19,4 @@ You can also read http://ilpubs.stanford.edu:8090/778/1/2006-13.pdf in order to 
 ```
 
 - Then to run `g++ *.cpp -o kmeanspp`
-- After that, `./kmeanspp.exe` or `./kmeanspp.out` which is depend on your operating system.
+- After that, `./kmeanspp.exe` or `./kmeanspp.out` which depends on your operating system.
